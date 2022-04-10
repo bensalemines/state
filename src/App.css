@@ -1,0 +1,18 @@
+.class {
+  text-align: center;
+  
+}
+.visibility{
+background-color: black;
+width: 200px;
+height:50px;
+color:white;
+border:none;
+border-radius: 5px;
+}
+.profile{
+  background-color: aquamarine;
+  margin:30rem;
+  padding:30px;
+  margin-top: 50px;
+}
